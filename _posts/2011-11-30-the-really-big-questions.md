@@ -2,7 +2,7 @@
 layout: post
 title: The Really Big Questions
 categories: [writing]
-tags: [tufts]
+tags: [tufts, old-writing]
 author: evan
 ---
 * This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)
