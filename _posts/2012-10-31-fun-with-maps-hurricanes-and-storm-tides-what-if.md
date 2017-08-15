@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fun With Maps: Hurricanes and Storm Tides ("What If?")
+title: Fun With Maps&#58; Hurricanes and Storm Tides (What If?)
 categories: [writing]
 tags: [tufts, old-writing]
 author: evan
