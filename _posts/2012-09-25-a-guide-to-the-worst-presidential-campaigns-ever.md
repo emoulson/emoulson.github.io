@@ -13,13 +13,19 @@ The answers are below, in Evan's 2012 Guide to the Worst Presidential Campaigns 
 
 Runners-up: Aaron Burr, Al Gore, Robert Taft, Duncan Hunter, Howard Dean, Gerald Ford, George H.W. Bush, Horace Greeley, Alton Parker, John Edwards, Thomas E. Dewey, *Update: Hillary Clinton*
 
-![William H. Seward](http://ic.pics.livejournal.com/kensmind/1278588/1449556/1449556_600.jpg)  
-* William H. Seward, 1860
+| --- |
+| ![William H. Seward](http://ic.pics.livejournal.com/kensmind/1278588/1449556/1449556_600.jpg) |
+| --- |  
+
+* **William H. Seward, 1860**
 
  William Seward, of Seward’s Folly (AKA Alaska) fame, ran for the Republican nomination for president in 1860.  He had lined up so much support behind him and was so confident of winning the nomination that he left the country for 8 months before the party convention in 1859.  Of course, it may also have been because he was worried that he might say something stupid or offend one or another faction (as he had when he declared that slavery, while legal under the constitution, was against a “higher law”).  In any case, while Seward was in Europe and Asia (where he acquired several Arabian horses) a young man from Illinois named Abraham Lincoln managed to build up enough support to win the endorsement of the Republican Party.  Seward eventually became Lincoln's Secretary of State, so all's well that ends well.
 
-![George W. Romney](http://a.abcnews.com/images/Politics/gty_george_romney_jt_120127_wmain.jpg)  
-* George W. Romney (R-MI) 1964, 1968
+| --- |
+| ![George W. Romney](http://a.abcnews.com/images/Politics/gty_george_romney_jt_120127_wmain.jpg) |
+| --- |
+
+* **George W. Romney (R-MI) 1964, 1968**
 
  Tell me, does this sound familiar: wealthy businessman and former Republican governor runs for president, appears as the front runner for a brief period, proceeds to make a series of flip-flops, has serious difficulty articulating a stance on foreign policy (or indeed any topic) and then refuses to give up when it’s very, very clear that he’s lost?  Oh, and he’s Mormon.
 
@@ -29,8 +35,11 @@ Runners-up: Aaron Burr, Al Gore, Robert Taft, Duncan Hunter, Howard Dean, Gerald
 
  In 1968, Governor George Romney turned an 8% polling lead over Richard Nixon into a 26% deficit in only a few months, a feat few can match.
 
-![Mike Gravel](https://s31.postimg.org/ossnfljgb/mike-gravel-red-background.jpg)  
-* Mike Gravel (D-AK) 1972, 2008  
+| --- |
+| ![Mike Gravel](https://s31.postimg.org/ossnfljgb/mike-gravel-red-background.jpg) |
+| --- |
+
+* **Mike Gravel (D-AK) 1972, 2008**
 
  As a US Senator in 1972, Mike Gravel did not campaign for the presidency.  He campaigned to become the vice president.  According to the New York Times, Sen. Gravel began campaigning for second place on June 2, 1972, more than a month before his party’s nominating convention.  He wasn’t even the only one running: the Democratic delegates in Miami Beach, Florida in 1972 nominated over 70 possible vice presidential candidates (including Mao Zedong) before settling on Senator Thomas Eagleton (see #7).
 
@@ -45,7 +54,7 @@ Runners-up: Aaron Burr, Al Gore, Robert Taft, Duncan Hunter, Howard Dean, Gerald
 | :---: | :---: | :---: |
 | George McGovern (D-SD) | Sargent Shriver | Thomas Eagleton (D-MO) |
 
-* George McGovern (D-SD), Sargent Shriver, and Thomas Eagleton (D-MO) 1972
+* **George McGovern (D-SD), Sargent Shriver, and Thomas Eagleton (D-MO) 1972**
 
 What happened in 1972?  The numbers say that incumbent Republican President Richard Nixon won a landslide (and I do mean landslide) victory over Democratic challenger George McGovern, 520 to 17 (with one faithless elector) but that doesn’t even get close to the full story.
 
@@ -61,15 +70,21 @@ What followed wasn’t pretty.  Six, count ‘em, six, Democrats very publically
 
 You know what happened next: McGovern/Shriver ’72 went down in a fiery ball of indecisiveness and controversy and won only one state, spawning the famous post-Watergate bumper sticker: “Don’t blame me, I’m from Massachusetts.”
 
-![Harold Stassen](http://www.archives.upenn.edu/img/20020726001x200.jpg)
-6. Harold Stassen (R-MN) 1944, 1948, 1952, 1964, 1968, 1976, 1980, 1984, 1988, 1992, 1996, 2000
+| --- |
+| ![Harold Stassen](http://www.archives.upenn.edu/img/20020726001x200.jpg) |
+| --- |
+
+* **Harold Stassen (R-MN) 1944, 1948, 1952, 1964, 1968, 1976, 1980, 1984, 1988, 1992, 1996, 2000**
 
 If your name becomes synonymous with “also ran,” you should probably reconsider your choice of career.  Harold Stassen ran for president twelve times between 1944 and 2000, making him the butt of jokes from The Simpsons to Hunter S. Thompson books.  The first few times, Stassen was actually fairly successful, coming in second place in primary polling in 1948 and receiving delegates as recently as 1968 (although one of his two that year was his nephew).
 
 In later elections, not only did Stassen fail to garner any votes, but the humorous “Stop Stassen” movement began to attract more attention than his campaign, which is a kind of success, in a way.  …I guess.
 
-![Alf Landon](https://www.kshs.org/portraits/graphics/landon_alfred.jpg)
-* Alf Landon (R-KS) 1936
+| --- |
+| ![Alf Landon](https://www.kshs.org/portraits/graphics/landon_alfred.jpg) |
+| --- |
+
+* **Alf Landon (R-KS) 1936**
 
 Picture the country in the midst of the worst depression in history, a Great Depression, if you will.  Picture government programs that are bringing you food, money, and work.  Now picture a man who wants to get rid of them.  That’s what many American’s had to do – picture Alf Landon – because the opponent of FDR’s New Deal policies made no campaign appearances – zero – in the two months after he was nominated on the first ballot at the Republican National Convention in 1936.
 
@@ -79,8 +94,11 @@ Landon was such a bad campaigner and was so seldom seen on the stump that a colu
 
 Landon was nominated more as a sacrificial goat than anything else: he lost his home state of Kansas and carried only Maine and Vermont, losing to Roosevelt 523 to 8.
 
-![Strom Thurmond](https://upload.wikimedia.org/wikipedia/commons/4/43/Strom_Thurmond.jpg)
-* Strom Thurmond (D-SC) 1948
+| --- |
+| ![Strom Thurmond](https://upload.wikimedia.org/wikipedia/commons/4/43/Strom_Thurmond.jpg) |
+| --- |
+
+* **Strom Thurmond (D-SC) 1948**
 
 Hubert Humphrey convinced the Democrats to adopt a pro-civil rights platform for the first time at their 1948 convention, and it was embraced by the party establishment, including President Harry Truman, but it angered many southern Democrats, or “Dixiecrats.”  In response to the adoption of the inclusive platform, the Dixiecrats endorsed Governor Strom Thurmond of South Carolina.
 
@@ -92,8 +110,11 @@ This is the man who said, “All the laws of Washington and all the bayonets of 
 
 The Dixiecrats were adamant about states’ rights, especially when it came to denying rights to people they didn’t like.  Unsurprisingly, Thurmond won almost all of his votes in southern states, but what is surprising is that he managed to win a few electoral votes in the process: the 39 electors of Louisiana, Mississippi, Alabama, and South Carolina were all pledged to him.
 
-![John McCain](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_McCain_official_portrait_2009.jpg/220px-John_McCain_official_portrait_2009.jpg)
- John McCain (R-AZ), Sarah Palin (R-AK) 2008
+| --- |
+| ![John McCain](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/John_McCain_official_portrait_2009.jpg/220px-John_McCain_official_portrait_2009.jpg) |
+| --- |
+
+* **John McCain (R-AZ), Sarah Palin (R-AK) 2008**
 
 John McCain was, by most accounts, a serious, experienced, and solid candidate.  Most of the attacks on his campaign were actually on George W. Bush’s administration and the party that he had gathered around him.  All McCain had to do was convince America that he wasn’t any of the things that Bush was, i.e. that he was actually the man that had cosponsored the McCain-Feingold Campaign Finance Reform Act, that he was level-headed, and, above all, that he didn’t have some questionably insane, gun-toting vice president up his sleeve.
 
@@ -105,8 +126,11 @@ Even worse?  Palin quickly went off-message and became the subject of ridicule f
 
 Ultimately, McCain lost 365 to 173.
 
-![Gary Hart](https://media1.britannica.com/eb-media/41/130941-004-827E1CCD.jpg)
-* Gary Hart (D-CO) 1984, 1988
+| --- |
+| ![Gary Hart](https://media1.britannica.com/eb-media/41/130941-004-827E1CCD.jpg) |
+| --- |
+
+* **Gary Hart (D-CO) 1984, 1988**
 
 Very few campaigns are written to be movie scripts.  In 1984, Gary Hart, a relatively unknown Senator from Colorado ran against big names like John Glenn, Walter Mondale, and Jesse Jackson.  Mondale, who eventually lost to Reagan, reportedly considered Hart as his vice presidential pick before nominating Geraldine Ferraro.
 
@@ -124,8 +148,11 @@ Hart withdrew his candidacy under media pressure and went to Ireland for a few w
 
 He received about 4% of the vote and withdrew again, this time for good.
 
-![Jimmy Carter](https://www.biography.com/.image/t_share/MTE5NTU2MzE2MTc3MDA4MTM5/jimmy-carter-9240013-1-402.jpg)
-* Jimmy Carter (D-GA) 1976, 1980
+| --- |
+| ![Jimmy Carter](https://www.biography.com/.image/t_share/MTE5NTU2MzE2MTc3MDA4MTM5/jimmy-carter-9240013-1-402.jpg) |
+| --- |
+
+* **Jimmy Carter (D-GA) 1976, 1980**
 
 But… Carter won.
 
