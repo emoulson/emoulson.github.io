@@ -2,7 +2,7 @@
 layout: post
 title: Humanity Through Poetry
 categories: [writing]
-tags: [tufts, blog_posts]
+tags: [tufts, blog posts]
 author: evan
 ---
 Details are still sketchy about today's explosions at the finish line of the Boston Marathon.  What we do know, however, is that within minutes of the blasts, Tufts students, Bostonians, and people around the world were working together to ensure the safety of those at the scene.

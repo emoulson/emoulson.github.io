@@ -2,7 +2,7 @@
 layout: post
 title: The Difference Between "Bailout" and "Bailout"
 categories: [writing]
-tags: [tufts, blog_posts]
+tags: [tufts, blog posts]
 author: evan
 ---
 Many articles that I’ve stumbled upon lately seem to miss the point of the term “bailout.” And that’s putting it lightly.

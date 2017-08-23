@@ -2,7 +2,7 @@
 layout: post
 title: Don't Forget the Lettuce
 categories: [writing]
-tags: [gust, grown_up_storytime]
+tags: [gust, grown up storytime]
 author: evan
 ---
 Herbert needed groceries.
