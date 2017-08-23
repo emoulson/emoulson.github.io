@@ -8,7 +8,7 @@ evan:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I'm a writer, a coder, a Burqueño, and a transplant. I travel and take pictures of my cat.
+    I'm a writer, a coder, a Burqueño, and a transplant to Boston. I travel and take pictures of my cat.
 
   # This photo will be used in the about section
   picture:

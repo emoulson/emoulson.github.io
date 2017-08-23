@@ -3,7 +3,7 @@ layout: list
 title: Writing
 slug: writing
 menu: true
-order: 2
+order: 1
 description: >
   I like to write.
 ---

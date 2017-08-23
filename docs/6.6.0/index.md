@@ -8,7 +8,7 @@ redirect_from:
   - /docs/
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+<!-- Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
 Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/qwtel/hydejack/issues) on GitHub.
 
@@ -28,7 +28,7 @@ Should you discover a mistake in the docs (or a bug in general) feel free to [op
 * [Build]{:.heading data-flip="title"} -- How to build the static files for deployment.
 * [Advanced]{:.heading data-flip="title"} -- Guides for more advanced tasks.
 {:.related-posts.faded}
-
+-->
 ## Other
 * [LICENSE]{:.heading data-flip="title"} -- The license of this project.
 * [NOTICE]{:.heading data-flip="title"} -- Parts of this program are provided under separate licenses.
