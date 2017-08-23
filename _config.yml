@@ -22,7 +22,7 @@ description:         >
   and whatever else I feel like writing about.
 
 # This should be the same author as first entry in `_data/authors.yml`
-author:
+evan:
   name:              Evan Moulson
   email:             moulson.evan@gmail.com
 
