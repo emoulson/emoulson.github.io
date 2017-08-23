@@ -2,7 +2,7 @@
 layout: post
 title: The Really Big Questions
 categories: [writing]
-tags: [tufts, writing]
+tags: [tufts, blog_posts]
 author: evan
 ---
 Pop science shows often make the mistake of telling us exactly how lucky it is that the universe, or the galaxy, or the Earth, or humans, actually exist at all.  “With just a slight change in X, the world would be a very different place” could be a quote lifted from almost any NOVA hosted by Neil deGrasse Tyson, Robert Krulwich, or Brian Greene.  Unfortunately, that often leads to the question and summary answer, “Why did the universe work out the way it did, so that life exists and we exist?  Obviously because [insert deity here] made it that way.”

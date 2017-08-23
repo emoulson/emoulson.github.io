@@ -2,7 +2,7 @@
 layout: post
 title: And Now for Something (Almost) Completely Different...
 categories: [writing]
-tags: [tufts, writing]
+tags: [tufts, blog_posts]
 author: evan
 ---
 My posts are almost exclusively long-ish essay format things on economics, politics, social justice, or similar topics.  But that’s not all I do!

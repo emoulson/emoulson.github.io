@@ -2,7 +2,7 @@
 layout: post
 title: Austerity for a New Generation
 categories: [writing]
-tags: [tufts, writing]
+tags: [tufts, blog_posts]
 author: evan
 ---
 “Austerity,” once a word used only in very bad jokes about the name of a country to the south of Germany, has become perhaps the buzzword of 2011, if not in America, then certainly in Europe.  Governments from Greece to Britain to Spain have slashed their budgets in an effort to cut deficits, boost economic growth, and provide [Will Shortz](https://en.wikipedia.org/wiki/Will_Shortz) with new material (16-down: puritanical budget cutting).

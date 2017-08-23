@@ -2,7 +2,7 @@
 layout: post
 title: Fun With Maps&#58; Hurricanes and Storm Tides (What If?)
 categories: [writing]
-tags: [tufts, writing]
+tags: [tufts, blog_posts]
 author: evan
 ---
 Hurricanes are tricky things.  According to the National Oceanic and Atmospheric Administration’s National Hurricane Center, 26 named storms (hurricanes, tropical storms, subtropical storms, or extratropical storms) have hit New England since 1900.  We've become much better at tracking them and predicting their effects over that period, however: prior to 1990, [the vast majority](https://academic.oup.com/epirev/article/27/1/21/520830/Epidemiology-of-Tropical-Cyclones-The-Dynamics-of) (over 90% worldwide) of deaths due to hurricanes and other tropical cyclones were drowning deaths due to increased tides and flooding, known as “storm surge.”  Today, the majority of deaths are due to high winds, falling trees, electrocution, and other unpredictable hazards, according to the Centers for Disease Control and Prevention.
