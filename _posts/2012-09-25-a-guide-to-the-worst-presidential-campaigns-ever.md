@@ -41,11 +41,8 @@ Runners-up: Aaron Burr, Al Gore, Robert Taft, Duncan Hunter, Howard Dean, Gerald
  Gravel continued to poll below 1% among Democrats, even hitting statistical zero in the Iowa caucuses, but he didn’t give up: he just switched parties.  In March of 2008, Gravel announced that he would seek the Libertarian Party’s nomination for president, but that didn’t go so well, either.  The Senator continued campaigning and eventually finished fourth of eight at the Libertarian convention.
 
 | --- | --- | --- |
-
 | ![George McGovern](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/GeorgeStanleyMcGovern.jpg/220px-GeorgeStanleyMcGovern.jpg) | ![Sargent Shriver](https://img.timeinc.net/time/daily/2011/1101/sargent_shriver_0118.jpg) | ![Thomas Eagleton](https://upload.wikimedia.org/wikipedia/commons/0/07/ThomasEagleton.jpg) |
-
 | :---: | :---: | :---: |
-
 | George McGovern (D-SD) | Sargent Shriver | Thomas Eagleton (D-MO) |
 
 7. George McGovern (D-SD), Sargent Shriver, and Thomas Eagleton (D-MO) 1972
