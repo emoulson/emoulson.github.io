@@ -42,7 +42,6 @@ Runners-up: Aaron Burr, Al Gore, Robert Taft, Duncan Hunter, Howard Dean, Gerald
 
 | --- | --- | --- |
 | ![George McGovern](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/GeorgeStanleyMcGovern.jpg/220px-GeorgeStanleyMcGovern.jpg) | ![Sargent Shriver](https://img.timeinc.net/time/daily/2011/1101/sargent_shriver_0118.jpg) | ![Thomas Eagleton](https://upload.wikimedia.org/wikipedia/commons/0/07/ThomasEagleton.jpg) |
-
 | :---: | :---: | :---: |
 | George McGovern (D-SD) | Sargent Shriver | Thomas Eagleton (D-MO) |
 7. George McGovern (D-SD), Sargent Shriver, and Thomas Eagleton (D-MO) 1972
