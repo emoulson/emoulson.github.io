@@ -13,10 +13,10 @@ This is not about who was elected on Tuesday; this is an issue that has been aro
   [https://www.eff.org/issues/know-your-rights](https://www.eff.org/issues/know-your-rights)
 
   2. Use strong passwords and change them often. This is a slippery slope. It's easy to remember one password and to use it for all or most of your digital accounts. However, that means that if any of your accounts are compromised, all of your accounts are compromised. Try separating vital information like banking or email from non-vital information by using different passwords for different types of accounts, if using completely different passwords is difficult. Do not keep a plaintext (unencoded) spreadsheet of your accounts and passwords online. If you need a memory aid, use a small, physical notebook and try to obscure the contents (i.e. by adding random characters or words every few characters). This is not perfect, but it will help protect you. Using password generators/safes like LastPass and KeePass (the latter of which is open source) is an alternative, but remember: all of your passwords are only as safe as your master password.  
-  [https://xkcd.com/936/](https://xkcd.com/936/)
-  [https://xkcd.com/792/](https://xkcd.com/792/)
-  [http://keepass.info/](http://keepass.info/)
-  [https://www.lastpass.com/](https://www.lastpass.com/)  
+    [https://xkcd.com/936/](https://xkcd.com/936/)  
+    [https://xkcd.com/792/](https://xkcd.com/792/)  
+    [http://keepass.info/](http://keepass.info/)  
+    [https://www.lastpass.com/](https://www.lastpass.com/)   
 
   3. Use secure messaging. Look into GnuPGP if you need to send sensitive emails, and join Signal (an end to end encrypted messaging app for texting). Signal is dead simple and PGP, while it's more complicated, is being supported in many, many more applications and the algorithms that underlay it are currently the gold standard for encryption.  
   [https://whispersystems.org/](https://whispersystems.org/)
