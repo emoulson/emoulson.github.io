@@ -5,6 +5,7 @@ categories: [writing]
 tags: [tufts, blog posts]
 author: evan
 ---
+
 My posts are almost exclusively long-ish essay format things on economics, politics, social justice, or similar topics.  But that’s not all I do!
 
 To prove it to you, I present (and this is a rare thing) a piece of poetry I wrote, using Mitt Romney’s RNC speech as a base.  Omission poetry crosses out some words but retains the order of the original work to create poetry.

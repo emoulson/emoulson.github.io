@@ -5,6 +5,7 @@ categories: [writing]
 tags: [gust, grown up storytime]
 author: evan
 ---
+
 **Kendall/MIT T Station, Cambridge, MA** - *3/5 stars*  
 The yellow line is there for a reason, evidently. Luckily, I narrowly missed falling into the way of an oncoming subway train (eat your heart out, *House of Cards*) and awoke to several firefighters and EMTs escorting me up the stairs. Pros: many doctors and nurses live nearby, due to ridiculous Boston real estate prices; the yellow line clearly marks both the path of oncoming trains and where tourists stand. Cons: could easily have been electrocuted and run over.
 

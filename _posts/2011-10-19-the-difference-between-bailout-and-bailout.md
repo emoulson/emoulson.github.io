@@ -5,6 +5,7 @@ categories: [writing]
 tags: [tufts, blog posts]
 author: evan
 ---
+
 Many articles that I’ve stumbled upon lately seem to miss the point of the term “bailout.” And that’s putting it lightly.
 
 This article (*sadly, it's no longer hosted*), from the liberal blog Nation of Change, rails against the Federal Reserve system for five paragraphs before mentioning the slightly important detail that all of the loans given to banks or financial institutions “were repaid or are expected to be repaid.”

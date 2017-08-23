@@ -5,6 +5,7 @@ categories: [writing]
 tags: [tufts, blog posts]
 author: evan
 ---
+
 The debates are starting, the apple cider is warming, and it's election season here at Tufts!  That means it's time for me to break myself away from the 2012 candidates (and my homework) and take a long, hard look back at the candidates who have come before.  Who was a bad campaigner?  Who was simply stupid?  Who had an extramarital affair on board a yacht called *Monkey Business*?
 
 The answers are below, in Evan's 2012 Guide to the Worst Presidential Campaigns Ever!

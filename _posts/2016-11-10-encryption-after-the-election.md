@@ -5,6 +5,7 @@ categories: [writing]
 tags: [Trump, 2016 election, encryption, computers]
 author: evan
 ---
+
 You may know that I'm a big proponent of strong encryption -- "tin foil hat" stuff, if you want. I think it's important that we, collectively, secure our private data, since the 0s and 1s of data have become the modern analog of 18th century "papers and effects". To this end, I would like to offer some advice and spark discussion about how best to secure our collective data and promote the ideal of freedom in our technical era.
 
 This is not about who was elected on Tuesday; this is an issue that has been around much longer, and will have implications that will reach far beyond one four year term. This is also probably going to be a long read, and I hope you will do more than skim it, because I value your thoughts and ideas.

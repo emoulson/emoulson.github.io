@@ -5,6 +5,7 @@ categories: [writing]
 tags: [tufts, blog posts]
 author: evan
 ---
+
 Hurricanes are tricky things.  According to the National Oceanic and Atmospheric Administration’s National Hurricane Center, 26 named storms (hurricanes, tropical storms, subtropical storms, or extratropical storms) have hit New England since 1900.  We've become much better at tracking them and predicting their effects over that period, however: prior to 1990, [the vast majority](https://academic.oup.com/epirev/article/27/1/21/520830/Epidemiology-of-Tropical-Cyclones-The-Dynamics-of) (over 90% worldwide) of deaths due to hurricanes and other tropical cyclones were drowning deaths due to increased tides and flooding, known as “storm surge.”  Today, the majority of deaths are due to high winds, falling trees, electrocution, and other unpredictable hazards, according to the Centers for Disease Control and Prevention.
 
 Although we've become better at predicting the effects of hurricanes, that doesn't mean we've mitigated them.  A Category 5 hurricane will still do “catastrophic” damage to man-made structures, and, as we have repeatedly seen, putting up defenses like levees or seawalls doesn't guarantee safety, either.  Fun fact for those of you thinking that only Cat5 hurricanes are dangerous: when Katrina made landfall in 2005, it was classified as a Category 3 storm.

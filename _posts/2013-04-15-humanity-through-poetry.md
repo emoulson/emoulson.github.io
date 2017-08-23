@@ -5,6 +5,7 @@ categories: [writing]
 tags: [tufts, blog posts]
 author: evan
 ---
+
 Details are still sketchy about today's explosions at the finish line of the Boston Marathon.  What we do know, however, is that within minutes of the blasts, Tufts students, Bostonians, and people around the world were working together to ensure the safety of those at the scene.
 
 Tufts students are traditionally heavily involved in the marathon -- either running it, or cheering on those who are -- so today's event's are particularly shocking for those of us who had friends there.  If you want more news about the incidents, go to a news site or Twitter.  This is a blog of student perspectives.

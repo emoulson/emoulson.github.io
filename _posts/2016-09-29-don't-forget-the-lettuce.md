@@ -5,6 +5,7 @@ categories: [writing]
 tags: [gust, grown up storytime]
 author: evan
 ---
+
 Herbert needed groceries.
 
 Specifically, he needed a bushel of cranberries (do cranberries even come in bushels? Well, they'd have to: the recipe called for a bushel, and deviating from the recipe could have... unpleasant results. That he knew.), a box of ant poison, several potatoes, two handfuls of kettle corn (kettle corn, of course, doesn't come in handfuls, so the rest could be saved for later), Emmenthaler cheese, and a head of fresh lettuce.
