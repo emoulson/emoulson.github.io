@@ -43,7 +43,9 @@ Runners-up: Aaron Burr, Al Gore, Robert Taft, Duncan Hunter, Howard Dean, Gerald
 | --- | --- | --- |
 | ![George McGovern](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/GeorgeStanleyMcGovern.jpg/220px-GeorgeStanleyMcGovern.jpg) | ![Sargent Shriver](https://img.timeinc.net/time/daily/2011/1101/sargent_shriver_0118.jpg) | ![Thomas Eagleton](https://upload.wikimedia.org/wikipedia/commons/0/07/ThomasEagleton.jpg) |
 | :---: | :---: | :---: |
+
 | George McGovern (D-SD) | Sargent Shriver | Thomas Eagleton (D-MO) |
+
 7. George McGovern (D-SD), Sargent Shriver, and Thomas Eagleton (D-MO) 1972
 
 What happened in 1972?  The numbers say that incumbent Republican President Richard Nixon won a landslide (and I do mean landslide) victory over Democratic challenger George McGovern, 520 to 17 (with one faithless elector) but that doesn’t even get close to the full story.
