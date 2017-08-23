@@ -2,11 +2,9 @@
 layout: post
 title: The Difference Between "Bailout" and "Bailout"
 categories: [writing]
-tags: [tufts, old-writing]
+tags: [tufts, writing]
 author: evan
 ---
-* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)
-
 Many articles that I’ve stumbled upon lately seem to miss the point of the term “bailout.” And that’s putting it lightly.
 
 This article (*sadly, it's no longer hosted*), from the liberal blog Nation of Change, rails against the Federal Reserve system for five paragraphs before mentioning the slightly important detail that all of the loans given to banks or financial institutions “were repaid or are expected to be repaid.”
@@ -28,3 +26,5 @@ Additionally, the Federal Reserve has run a profit every year since 1913 (even t
 A “bailout” the way that most Americans see it is simply the Federal Reserve “secretly” giving money to big banks and corporations that don’t deserve it.  In reality, a bailout is a loan, managed by a contract like any other, that must be paid back.  If we didn’t have bailouts, our entire economy might collapse.
 
 If you really want to get rid of big banks and corporations gambling with government money (and therefore, your money), then you should be calling for a reenactment of the [Glass-Steagall Act](http://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_Act).  But, of course, none of the people who are clamoring for the Fed’s head on a pike want that (“It’s too much government regulation!”).
+
+* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)

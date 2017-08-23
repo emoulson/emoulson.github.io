@@ -2,11 +2,9 @@
 layout: post
 title: A Guide to the Worst Presidential Campaigns Ever
 categories: [writing]
-tags: [tufts, old-writing]
+tags: [tufts, writing]
 author: evan
 ---
-* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)
-
 The debates are starting, the apple cider is warming, and it's election season here at Tufts!  That means it's time for me to break myself away from the 2012 candidates (and my homework) and take a long, hard look back at the candidates who have come before.  Who was a bad campaigner?  Who was simply stupid?  Who had an extramarital affair on board a yacht called *Monkey Business*?
 
 The answers are below, in Evan's 2012 Guide to the Worst Presidential Campaigns Ever!
@@ -147,3 +145,5 @@ After the Democratic Convention, Carter held a 33% lead in the polls.  However, 
 When the polls closed on November 2, 1976, no one was sure who would win.  Carter had lost his 33% lead and Ford looked like he might win a second term, despite being a thoroughly underwhelming candidate.  NBC didn’t announce that Jimmy Carter had won Mississippi (and passed 270 electoral votes) until 3:30am on November 3.  The 27 states that Ford won were and remain the most states won by a losing candidate.
 
 In 1980, Carter lost to a resurgent Ronald Reagan in a landslide, 489 to 49.  Of course, Carter wasn’t to blame for the Iranian hostage crisis, but the voters held him accountable anyway.  The stagflation that had continued as a result of Ford’s economic policies was also attributed to Carter, but his campaign did very little to shift the blame.  Carter lost the popular vote by nearly 10 points – a crushing defeat by any standard.
+
+* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)

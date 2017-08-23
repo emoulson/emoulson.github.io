@@ -2,11 +2,9 @@
 layout: post
 title: And Now for Something (Almost) Completely Different...
 categories: [writing]
-tags: [tufts, old-writing]
+tags: [tufts, writing]
 author: evan
 ---
-* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)
-
 My posts are almost exclusively long-ish essay format things on economics, politics, social justice, or similar topics.  But that’s not all I do!
 
 To prove it to you, I present (and this is a rare thing) a piece of poetry I wrote, using Mitt Romney’s RNC speech as a base.  Omission poetry crosses out some words but retains the order of the original work to create poetry.
@@ -43,3 +41,6 @@ I lift eyes to destiny
 to
 God God God
 American America.
+
+---
+* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)

@@ -2,11 +2,9 @@
 layout: post
 title: Austerity for a New Generation
 categories: [writing]
-tags: [tufts, old-writing]
+tags: [tufts, writing]
 author: evan
 ---
-* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)
-
 “Austerity,” once a word used only in very bad jokes about the name of a country to the south of Germany, has become perhaps the buzzword of 2011, if not in America, then certainly in Europe.  Governments from Greece to Britain to Spain have slashed their budgets in an effort to cut deficits, boost economic growth, and provide [Will Shortz](https://en.wikipedia.org/wiki/Will_Shortz) with new material (16-down: puritanical budget cutting).
 
 America has not been immune from the austerity craze, either:  as employment has plummeted, GDP (gross domestic product, essentially a measure of how much the country is producing) has remained stagnant, and poverty has hit the highest levels ever in the modern era (more on that in another post), Messers Paul Ryan (R-WI), Joe Lieberman (I-RI), John McCain (R-AZ), etc. insist that the solution is to spend less money on normal people.  Yes, it’s true that according to traditional economic theories, large deficits should be avoided during times of prosperity, but I have never heard of a textbook that advocated trying to cut the deficit while we’re in the middle of a recession.  That’s just silly.
@@ -44,3 +42,5 @@ Austerity, in the long-term, will drive down the college-educated population in 
 
 ***
 > ¹Keynes actually said, “The long run is a misleading guide to current affairs. In the long run we are all dead. Economists set themselves too easy, too useless a task if in tempestuous seasons they can only tell us that when the storm is past the ocean is flat again.” from A Tract on Monetary Reform (1923) Ch. 3
+
+* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)

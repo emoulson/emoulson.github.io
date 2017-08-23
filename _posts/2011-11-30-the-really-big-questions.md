@@ -2,11 +2,9 @@
 layout: post
 title: The Really Big Questions
 categories: [writing]
-tags: [tufts, old-writing]
+tags: [tufts, writing]
 author: evan
 ---
-* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)
-
 Pop science shows often make the mistake of telling us exactly how lucky it is that the universe, or the galaxy, or the Earth, or humans, actually exist at all.  “With just a slight change in X, the world would be a very different place” could be a quote lifted from almost any NOVA hosted by Neil deGrasse Tyson, Robert Krulwich, or Brian Greene.  Unfortunately, that often leads to the question and summary answer, “Why did the universe work out the way it did, so that life exists and we exist?  Obviously because [insert deity here] made it that way.”
 
 No.  No, that is not the reason.  You are the weakest link, goodbye.
@@ -32,3 +30,5 @@ If you want to ask big, galaxy-sized questions, ask, “What other kinds of thin
 If you want to ask smaller questions, closer to home, perhaps you can ask, “What can I do to help other people? And why am I doing it? Is it because I expect something, even in another life, in return, or because it’s just the right thing to do?”
 
 So stop being so anthrocentric, stop thinking that the Universe exists just for you and people like you, and try to make the world we live in a better place.
+
+* This post was originally hosted on the Tufts University blog [Jumbo Talk](http://admissions.tufts.edu/blogs/jumbo-talk/)
