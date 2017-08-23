@@ -13,8 +13,8 @@ The answers are below, in Evan's 2012 Guide to the Worst Presidential Campaigns 
 
 Runners-up: Aaron Burr, Al Gore, Robert Taft, Duncan Hunter, Howard Dean, Gerald Ford, George H.W. Bush, Horace Greeley, Alton Parker, John Edwards, Thomas E. Dewey, *Update: Hillary Clinton*
 
-| --- |
-| ![William H. Seward](http://ic.pics.livejournal.com/kensmind/1278588/1449556/1449556_600.jpg) |
+| --- |  
+| ![William H. Seward](http://ic.pics.livejournal.com/kensmind/1278588/1449556/1449556_600.jpg) |  
 | --- |  
 
 * **William H. Seward, 1860**
