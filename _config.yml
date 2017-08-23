@@ -34,7 +34,7 @@ color:               '#4f86aa'
 font_heading:        "'Roboto Mono', Helvetica, Arial, sans-serif"
 
 # The text font. Expects a string that is a valid CSS font-family value.
-font:                "'Roboto', Helvetica, Arial, sans-serif"
+font:                "'Roboto Light', Helvetica, Arial, sans-serif"
 
 # The string encoding what fonts to fetch from Google Fonts.
 # See: https://qwtel.com/hydejack/docs/configuration/
