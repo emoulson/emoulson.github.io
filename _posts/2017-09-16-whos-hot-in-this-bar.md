@@ -20,4 +20,6 @@ Good question!
 
 Personally, I would probably only ever use it to take presumably hilarious selfies with my cat, but I think my girlfriend's mother will get a whole heck of a lot of use out of the industrial feature. Which brings me to my suggestion:
 
-**If you have a phone that can take thermal images, you have free license to walk into a bar (or other establishment) and make the pun "so, who's the hottest person in here?"**
+**If you have a phone that can take thermal images, you have free license to walk into a bar (or other establishment) and make terrible puns, like...**
+
+> ## "So, who's the hottest person in here?"
