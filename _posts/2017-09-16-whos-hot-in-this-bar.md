@@ -6,7 +6,7 @@ tags: [blog posts]
 author: evan
 ---
 
-![Evan and kitty through a thermal filter](https://i.imgur.com/IcaY9Dp.jpg){:max-width="50%"}
+![Evan and kitty through a thermal filter](https://i.imgur.com/IcaY9Dp.jpg){:width="50%"}
 
 My girlfriend's mother just bought a phone. No, it's not the new iPhone X, or the unannounced (and badly kept secret) Google Pixel 2 (or XL 2, which I will _definitely_ be calling the 2 XL). It isn't a [Firefly](http://www.toptenreviews.com/mobile/phones/best-emergency-cell-phones/firefly-glowphone-review/) or an iPhone 4, or anything you would really expect a mother to buy.
 
