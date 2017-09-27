@@ -2,7 +2,7 @@
 layout: post
 title: Who's Hot in this Bar?
 categories: [writing]
-tags: [blog posts]
+tags: [blog posts, tech]
 author: evan
 ---
 
