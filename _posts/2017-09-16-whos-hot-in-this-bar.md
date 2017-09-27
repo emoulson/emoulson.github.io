@@ -21,4 +21,4 @@ Personally, I would probably only ever use it to take presumably hilarious selfi
 **If you have a phone that can take thermal images, you have free license to walk into a bar (or other establishment) and make the pun "so, who's the hottest person in here?"**
 
 Bonus thermal cat selfie:
-![Evan and kitty through a thermal filter](https://i.imgur.com/IcaY9Dp.jpg)
+![Evan and kitty through a thermal filter](https://i.imgur.com/IcaY9Dp.jpg){:width="50%"}
